@@ -1,0 +1,5 @@
+A particle swarm optimization tool written in C++.
+
+The input file contains the initialization for the parameters.
+
+The main file tests the pso class and creates the function to be minimized.

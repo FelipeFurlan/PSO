@@ -1,0 +1,5 @@
+#ignore obj files
+/obj
+#ignore executable files
+pso
+pso_debug

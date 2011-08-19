@@ -1,0 +1,13 @@
+numberOfParticles: 10
+numberOfVariables: 2
+lowerBounds: -2 -2
+upperBounds: 2 2
+maxIteration: 5000
+maxVelocity: 0.1 0.1
+lowerWeight: 0.4
+upperWeight: 0.9
+c1: 2
+c2: 2
+psoType: Classic
+stoppingCriteria: none
+threshold: 0.0001
